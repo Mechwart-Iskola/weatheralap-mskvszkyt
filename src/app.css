@@ -63,16 +63,14 @@
 }
 
 @media (min-width: 768px){
+    
+    
+    .container{
     .search-section{
-        display: flex;
+    
         background-color: red;
         flex-direction: row;
 
-        input{
-            width: 10px;
-        }
-        button{
-            width: 10px;
-        }
-    }
+     
+    }}
 }
